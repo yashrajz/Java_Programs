@@ -1,3 +1,4 @@
+//Leetcode question - 231
 public class D1Q2PowerOfTwo {
     public boolean isPowerOfTwo(int n) {
         if(n < 1){
