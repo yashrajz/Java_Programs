@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-Leetcode question - 1394
+// Leetcode question - 1394
 public class D10Q1FindLuckyIntegerInAnArray {
     public int findLucky(int[] arr) {
         HashMap<Integer, Integer> hm = new HashMap<>();
